@@ -1,0 +1,13 @@
+/BadDateSpecificationException.java/1.1/Fri Oct  6 18:40:14 2017//
+/BadEntryException.java/1.1/Fri Oct  6 18:40:14 2017//
+/BadTimeSpecificationException.java/1.1/Fri Oct  6 18:40:14 2017//
+/ImportFileException.java/1.1/Fri Oct  6 18:40:14 2017//
+/InvalidPassengerNameException.java/1.1/Fri Oct  6 18:40:14 2017//
+/MissingFileAssociationException.java/1.1/Fri Oct  6 18:40:14 2017//
+/NoSuchDepartureException.java/1.1/Fri Oct  6 18:40:14 2017//
+/NoSuchItineraryChoiceException.java/1.1/Fri Oct  6 18:40:14 2017//
+/NoSuchPassengerIdException.java/1.1/Fri Oct  6 18:40:14 2017//
+/NoSuchServiceIdException.java/1.1/Fri Oct  6 18:40:14 2017//
+/NoSuchStationNameException.java/1.1/Fri Oct  6 18:40:14 2017//
+/NonUniquePassengerNameException.java/1.1/Fri Oct  6 18:40:14 2017//
+D
